@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gaussian.Signals/Gaussian.Signals.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Gaussian.Signals.Tests/Gaussian.Signals.Tests.csproj" />
+  </Folder>
+</Solution>
